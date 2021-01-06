@@ -33,3 +33,10 @@ Large-scale Machine Learning
 - <b>Weijie Fu</b>, Meng Wang, Shijie Hao, Xindong Wu, Scalable Active Learning by Approximated Error Reduction, <b>ACM SIGKDD</b>, 2018.
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Hengchang Liu, Xindong Wu, Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy, <b>IEEE TKDE</b>, 2017.
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, Xindong Wu, Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization, <b>IEEE TKDE</b>, 2016.
+
+# Links
+[Richang Hong](https://sites.google.com/site/homeofrichanghong/)<br>
+[Shijie Hao](http://ci.hfut.edu.cn/2020/1209/c11505a245814/page.htm)<br>
+[Xiangnan He](http://staff.ustc.edu.cn/~hexn/)<br>
+[Mengnan Du](https://mengnandu.com/)<br>
+
