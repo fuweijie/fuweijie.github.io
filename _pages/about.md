@@ -35,6 +35,7 @@ Large-scale Machine Learning
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, Xindong Wu, Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization, <b>IEEE TKDE</b>, 2016.
 
 # Links
+[Xindong Wu](http://xwu.bigke.org/), Hefei University of Technology<br>
 [Richang Hong](https://sites.google.com/site/homeofrichanghong/), Hefei University of Technology<br>
 [Shijie Hao](http://ci.hfut.edu.cn/2020/1209/c11505a245814/page.htm), Hefei University of Technology<br>
 [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), University of Science and Technology of China<br>
