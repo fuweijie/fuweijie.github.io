@@ -12,9 +12,13 @@ IEEE Transactions on Circuits and Systems for Video Technology
 IEEE Transactions on Big Data  
 Multimedia Tools and Applications  
 Neurocomputing  
-AAAI-2021, CVPR-2021  
-SIGIR-2020, ACM MM-2020  
-PCM-2018, MMM-2017, ICMR-2016  
+AAAI Conference on Artificial Intelligence, 2021  
+IEEE Conference on Computer Vision and Pattern Recognition, 2021  
+ACM SIGIR Conference on Research and Development in Information Retrieval, 2020  
+ACM International Conference on Multimedia, 2020  
+Pacific-Rim Conference on Multimedi, 2018  
+International Conference on MultiMedia Modeling, 2017 
+International Conference on Multidisciplinary Research, 2016  
 
 # Major Awards
 Chinese Scholarship Council Funding  
