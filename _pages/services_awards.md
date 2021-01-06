@@ -1,3 +1,9 @@
+---
+<!-- layout: archive -->
+title: "Services & Awards"
+permalink: /services_awards/
+author_profile: true
+---
 
 # Academic Services
 ICMR-2016, MMM-2017, PCM-2018, SIGIR-2020, ACM MM-2020, AAAI-2021, CVPR-2021
