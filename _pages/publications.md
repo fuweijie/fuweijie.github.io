@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2021
 
-<b>[Differentiated Explanation of Deep Networks with Skewed Distributions](??)</b><br><b>Weijie Fu</b>, Meng Wang, Mengnan Du, Ninghao Liu, Shijie Hao, Xia Hu. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, <b>T-PAMI 2021</b>,  [code](https://github.com/fuweijie/DRE).
+<b>[Differentiated Explanation of Deep Networks with Skewed Distributions](??)</b><br><b>Weijie Fu</b>, Meng Wang, Mengnan Du, Ninghao Liu, Shijie Hao, Xia Hu. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, <b>T-PAMI 2021</b>, [code](https://github.com/fuweijie/DRE).
 
 ## 2020
 
@@ -26,7 +26,7 @@ author_profile: true
 
 ## 2018
 
-<b>[Scalable Active Learning by Approximated Error Reduction](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, Xindong Wu. <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>SIGKDD 2018</b>. [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219954) [slides](https://github.com/fuweijie/fuweijie.github.io/blob/master/files/talk_sigkdd_2018.pdf) [code](https://github.com/fuweijie/AER)
+<b>[Scalable Active Learning by Approximated Error Reduction](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, Xindong Wu. <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>SIGKDD 2018</b>. [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219954) [slides](http://fuweijie.github.io/files/talk_sigkdd_2018.pdf) [code](https://github.com/fuweijie/AER)
 
 ## 2017 
 
