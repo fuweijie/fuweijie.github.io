@@ -34,8 +34,8 @@ author_profile: true
 
 ## 2016
 
-<b>[Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>TKDE 2016</b>. [paper](??) [slide](??) [code](??)
+<b>[Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>TKDE 2016</b>. [paper](??)
 
-<b>[Active learning on Anchor Graph with an Improved Transductive Experimental Design]</b><br><b>Weijie Fu</b>, Shijie Hao, and Meng Wang. <i>Neurocomputing.</i> <b>2016</b>. [paper](??) [slide](??) [code](??)
+<b>[Active learning on Anchor Graph with an Improved Transductive Experimental Design]</b><br>(??)<b>Weijie Fu</b>, Shijie Hao, and Meng Wang. <i>Neurocomputing.</i> <b>2016</b>. [paper](??)
 
-<b>[Dimensionality Reduction on Anchor Graph with an Efficient Locality Preserving Projection]</b><br>Jiang Rui, <b>Weijie Fu</b>, Shijie Hao, Li Wen, and Richang Hong. <i>Neurocomputing.</i> <b>2016</b>. [paper](??) [slide](??) [code](??)
+<b>[Dimensionality Reduction on Anchor Graph with an Efficient Locality Preserving Projection]</b><br>Jiang Rui, <b>Weijie Fu</b>, Shijie Hao, Li Wen, and Richang Hong. <i>Neurocomputing.</i> <b>2016</b>. [paper](??)
