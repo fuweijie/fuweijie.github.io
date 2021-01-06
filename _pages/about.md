@@ -40,4 +40,4 @@ Large-scale Machine Learning
 [Shijie Hao](http://ci.hfut.edu.cn/2020/1209/c11505a245814/page.htm), Hefei University of Technology<br>
 [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), University of Science and Technology of China<br>
 [Mengnan Du](https://mengnandu.com/), Texas A&M University<br>
-
+[Ninghao Liu](http://people.tamu.edu/~nhliu43/), Texas A&M University<br>
