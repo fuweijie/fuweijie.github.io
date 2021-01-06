@@ -11,9 +11,12 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-  - title: "Awards"
-    url: /awards/
+    
+  - title: "Services & Awards"
+    url: /services_awards/
+
+  - title: "Contact"
+    url: /contact/
     
   - title: "CV"
     url: /cv/
