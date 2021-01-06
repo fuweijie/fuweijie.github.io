@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weijie Fu"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Weijie Fu"
 description              : &description "personal description"
