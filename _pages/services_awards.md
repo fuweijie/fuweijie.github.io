@@ -1,12 +1,12 @@
 ---
 <!-- layout: archive -->
-title: "Services & Awards"
+title: "Major Services & Awards"
 permalink: /services_awards/
 author_profile: true
 ---
 
 # Services
-### Journals
+## Journals
 IEEE Transactions on Knowledge and Data Engineering  
 IEEE Transactions on Neural Networks and Learning Systems  
 IEEE Transactions on Circuits and Systems for Video Technology  
@@ -14,7 +14,7 @@ IEEE Transactions on Big Data
 Multimedia Tools and Applications  
 Neurocomputing  
 
-### Conferences
+## Conferences
 AAAI Conference on Artificial Intelligence, 2021  
 IEEE Conference on Computer Vision and Pattern Recognition, 2021  
 ACM SIGIR Conference on Research and Development in Information Retrieval, 2020  
