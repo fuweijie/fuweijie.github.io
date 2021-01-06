@@ -34,7 +34,7 @@ Large-scale Machine Learning
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Hengchang Liu, Xindong Wu, Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy, <b>IEEE TKDE</b>, 2017.
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, Xindong Wu, Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization, <b>IEEE TKDE</b>, 2016.
 
-# Coadvisor and Colleague
+# Co-advisor and Colleague
 [Xindong Wu](http://xwu.bigke.org/) (Fellow, IEEE), Hefei University of Technology<br>
 [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) (Fellow, IEEE), University of Sydney<br>
 [Richang Hong](https://sites.google.com/site/homeofrichanghong/), Hefei University of Technology<br>
