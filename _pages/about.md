@@ -35,11 +35,11 @@ Large-scale Machine Learning
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, Xindong Wu, Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization, <b>IEEE TKDE</b>, 2016.
 
 # Co-advisors & Colleagues
-[Xindong Wu](http://xwu.bigke.org/) (Fellow, IEEE), Hefei University of Technology<br>
-[Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) (Fellow, IEEE), University of Sydney<br>
-[Richang Hong](https://sites.google.com/site/homeofrichanghong/), Hefei University of Technology<br>
-[Shijie Hao](http://ci.hfut.edu.cn/2020/1209/c11505a245814/page.htm), Hefei University of Technology<br>
-[Xiangnan He](http://staff.ustc.edu.cn/~hexn/), University of Science and Technology of China<br>
-[Zhenzhen Hu](https://scholar.google.com/citations?user=N6Llq94AAAAJ&hl=en), Hefei University of Technology<br>
-[Mengnan Du](https://mengnandu.com/), Texas A&M University<br>
-[Ninghao Liu](http://people.tamu.edu/~nhliu43/), Texas A&M University<br>
+Prof. [Xindong Wu](http://xwu.bigke.org/) (Fellow, IEEE), Hefei University of Technology<br>
+Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) (Fellow, IEEE), University of Sydney<br>
+Prof. [Richang Hong](https://sites.google.com/site/homeofrichanghong/), Hefei University of Technology<br>
+Prof. [Shijie Hao](http://ci.hfut.edu.cn/2020/1209/c11505a245814/page.htm), Hefei University of Technology<br>
+Prof. [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), University of Science and Technology of China<br>
+Prof. [Zhenzhen Hu](https://scholar.google.com/citations?user=N6Llq94AAAAJ&hl=en), Hefei University of Technology<br>
+Dr. [Mengnan Du](https://mengnandu.com/), Texas A&M University<br>
+Dr. [Ninghao Liu](http://people.tamu.edu/~nhliu43/), Texas A&M University<br>
