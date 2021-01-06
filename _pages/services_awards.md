@@ -21,6 +21,6 @@ International Conference on MultiMedia Modeling, 2017
 ACM International Conference on Multimedia Retrieval, 2016  
 
 # Major Awards
-Chinese Scholarship Council Funding  
-National Scholarship for Graduate Student  
-SIGKDD Student Travel Award  
+Chinese Scholarship Council Funding, 2019  
+National Scholarship for Graduate Student, 2018  
+SIGKDD Student Travel Award, 2018    
