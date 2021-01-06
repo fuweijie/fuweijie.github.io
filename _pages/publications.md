@@ -34,6 +34,11 @@ author_profile: true
 
 ## 2016
 
+<b>[Differentiated Explanation of Deep Networks with Skewed Distributions](??)</b><br><b>Weijie Fu</b>, Meng Wang, Mengnan Du, Ninghao Liu, Shijie Hao, Xia Hu. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> <b>TPAMI 2021</b>. [paper](??) [code](??)
+
+
+
+
 <b>[Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>TKDE 2016</b>.
 
 <b>[Active learning on Anchor Graph with an Improved Transductive Experimental Design]</b><br>(??)<b>Weijie Fu</b>, Shijie Hao, and Meng Wang. <i>Neurocomputing.</i> <b>2016</b>.
