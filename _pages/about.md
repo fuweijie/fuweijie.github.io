@@ -12,13 +12,10 @@ I am currently a last year Ph.D. student in the School of Computer Science and I
 
 # Experience
 
-03/2019-07/2020
-Visiting Scholar, [Texas A&M University](https://www.tamu.edu/), United States 
+03/2019-07/2020 Visiting Scholar, [Texas A&M University](https://www.tamu.edu/), United States 
+                Interpretable machine learning and adversarial defense
+                Co-advisor: Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
-Interpretable machine learning and adversarial defense, Co-advisor: Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
-
-11/2016-03/2017
-
-Visiting Scholar, [University of Manchester](https://www.manchester.ac.uk/), United Kingdom
-
-Large-scale machine learning, Co-advisor: Prof. [Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html)
+11/2016-03/2017 Visiting Scholar, [University of Manchester](https://www.manchester.ac.uk/), United Kingdom
+                Large-scale machine learning
+                Co-advisor: Prof. [Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html)
