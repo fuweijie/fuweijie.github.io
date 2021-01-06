@@ -12,11 +12,11 @@ author_profile: true
 
 ## 2021
 
-<b>[Differentiated Explanation of Deep Networks with Skewed Distributions](??)</b><br><b>Weijie Fu</b>, Meng Wang, Mengnan Du, Ninghao Liu, Shijie Hao, Xia Hu. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> <b>TPAMI 2021</b>.
+<b>[Differentiated Explanation of Deep Networks with Skewed Distributions](??)</b><br><b>Weijie Fu</b>, Meng Wang, Mengnan Du, Ninghao Liu, Shijie Hao, Xia Hu. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020</i>.
 
 ## 2020
 
-<b>[A Survey on Large-Scale Machine Learning](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Xiangnan He, Shijie Hao, Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>TKDE 2020</b>. [paper](https://arxiv.org/abs/2008.03911)
+<b>[A Survey on Large-Scale Machine Learning](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Xiangnan He, Shijie Hao, Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering, 2020.</i>. [paper](https://arxiv.org/abs/2008.03911)
 
 <b>[The Balanced Loss Curriculum Learning](??)</b><br>Wei Qin, Zhenzhen Hu, Xueliang Liu, <b>Weijie Fu</b> Jun He, and Richang Hong. <i>IEEE Access.</i> <b>2020</b>. [paper](http://ieeexplore.ieee.org/document/8977493/) [code](??)
 
