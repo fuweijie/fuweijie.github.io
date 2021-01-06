@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Weijie Fu"
-  avatar           : "profile.png"
+  avatar           : "fuweijie.png" #"profile.png"
   bio              : "Ph.D. Candidate, I am looking for industrial jobs."
   location         : "Hefei"
   employer         :
