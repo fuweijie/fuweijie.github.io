@@ -17,7 +17,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, 2021
 ACM SIGIR Conference on Research and Development in Information Retrieval, 2020  
 ACM International Conference on Multimedia, 2020  
 Pacific-Rim Conference on Multimedi, 2018  
-International Conference on MultiMedia Modeling, 2017 
+International Conference on MultiMedia Modeling, 2017  
 International Conference on Multidisciplinary Research, 2016  
 
 # Major Awards
