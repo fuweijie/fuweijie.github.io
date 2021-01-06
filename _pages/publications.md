@@ -30,7 +30,9 @@ author_profile: true
 
 <b>[FLAG: Faster Learning on Anchor Graph with Label Predictor Optimization](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, and Tingting Mu.<i>IEEE Transactions on Big Data.</i> <b>TBD 2017</b>. [paper](??)
 
-<b>[Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Hengchang Liu, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>TKDE 2017/b>. [paper](??)
+<b>[Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Hengchang Liu, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>TKDE 2017</b>. [paper](??)
+
+## 2016 
 
 <b>[Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>TKDE 2016</b>.
 
