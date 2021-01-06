@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 # Academic Services
+#### Journal
 IEEE Transactions on Knowledge and Data Engineering  
 IEEE Transactions on Neural Networks and Learning Systems  
 IEEE Transactions on Circuits and Systems for Video Technology  
 IEEE Transactions on Big Data  
 Multimedia Tools and Applications  
 Neurocomputing  
+
+#### Conference
 AAAI Conference on Artificial Intelligence, 2021  
 IEEE Conference on Computer Vision and Pattern Recognition, 2021  
 ACM SIGIR Conference on Research and Development in Information Retrieval, 2020  
