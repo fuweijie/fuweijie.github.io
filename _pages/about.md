@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="left">
-  <img src="https://fuweijie.github.io/images/weijiefu.png" alt="Photo" style="width: 450px;"/> 
-</p>
-
 I am currently a last-year Ph.D. student in School of Computer Science and Information at Hefei University of Technology. I am working at the Lab of Multimedia Computing (LMC)  under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home). Before being a Ph.D. Candidate, I received my B.S. degree in E.E. at Hefei University of Technology in 2015. 
 
 # Research Interests
