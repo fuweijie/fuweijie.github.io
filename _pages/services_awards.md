@@ -5,7 +5,7 @@ permalink: /services_awards/
 author_profile: true
 ---
 
-# Services
+# Academic Services
 IEEE Transactions on Knowledge and Data Engineering  
 IEEE Transactions on Neural Networks and Learning Systems  
 IEEE Transactions on Circuits and Systems for Video Technology  
@@ -16,7 +16,7 @@ AAAI-2021, CVPR-2021
 SIGIR-2020, ACM MM-2020  
 PCM-2018, MMM-2017, ICMR-2016  
 
-# Awards
+# Major Awards
 Chinese Scholarship Council Funding  
 National Scholarship for Graduate Student  
 SIGKDD Student Travel Award  
