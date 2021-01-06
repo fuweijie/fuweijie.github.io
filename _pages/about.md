@@ -16,7 +16,7 @@ I am currently a last-year Ph.D. student in School of Computer Science and Infor
 
 # Research Interests
 <br>Large-scale Machine Learning
-<br>Interpretable and Robust Deep Learning.
+<br>Interpretable and Robust Deep Learning
 
 
 # Experience
