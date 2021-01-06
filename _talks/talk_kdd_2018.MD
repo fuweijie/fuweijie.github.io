@@ -8,4 +8,4 @@ date: 2018-08-20
 location: "ExCeL, London, UK"
 ---
 
-[Click to View My Slides [PDF]](http://fuweijie.github.io/files/CV_Weijie_Fu.pdf)
+[Click to View My Slides [PDF]](http://fuweijie.github.io/files/talk_sigkdd_2018.pdf)
