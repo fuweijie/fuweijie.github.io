@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year Ph.D. student at School of Computer Science and Information in Hefei University of Technology. I am working at the Lab of Media Computing (LMC) under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home) (Fellow, IEEE). Before being a Ph.D. Candidate, I received my B.S. degree in E.E. at Hefei University of Technology in 2015. <b>Currently, I am looking for industrial jobs in China.</b>
+I am a last-year Ph.D. student at School of Computer Science and Information in Hefei University of Technology. I am working at the Lab of Media Computing (LMC) under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home) (Fellow, IEEE). Before being a Ph.D. Candidate, I received my B.S. degree in E.E. at Hefei University of Technology in 2015. <b>Currently, I am looking for an (industrial) research jobs on machine learning and computer vision. Feel free to drop me an email!</b>
 
 # Research Interests
 Large-scale Machine Learning
