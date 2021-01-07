@@ -43,3 +43,4 @@ Prof. [Xiangnan He](http://staff.ustc.edu.cn/~hexn/), University of Science and 
 Prof. [Zhenzhen Hu](https://scholar.google.com/citations?user=N6Llq94AAAAJ&hl=en), Hefei University of Technology<br>
 Dr. [Mengnan Du](https://mengnandu.com/), Texas A&M University<br>
 Dr. [Ninghao Liu](http://people.tamu.edu/~nhliu43/), Texas A&M University<br>
+Dr. [Raj Vardhan](https://www.linkedin.com/in/raj-vardhan/), Texas A&M University
