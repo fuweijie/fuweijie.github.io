@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Page Not Found"
 permalink: /sitemap/
 author_profile: true
 ---
