@@ -40,4 +40,4 @@ author_profile: true
 
 <b>[Active learning on Anchor Graph with an Improved Transductive Experimental Design](??)</b><br><b>Weijie Fu</b>, Shijie Hao, and Meng Wang. <i>Neurocomputing.</i> <b>Neurocomputing 2016</b>. [paper](https://www.sciencedirect.com/science/article/pii/S0925231215008929)
 
-<b>[Dimensionality Reduction on Anchor Graph with an Efficient Locality Preserving Projection](??)</b><br>Jiang Rui, <b>Weijie Fu</b>(equal contribution), Shijie Hao, Li Wen, and Richang Hong. <i>Neurocomputing.</i> <b>Neurocomputing 2016</b>. [paper](https://www.sciencedirect.com/science/article/pii/S0925231215018536)
+<b>[Dimensionality Reduction on Anchor Graph with an Efficient Locality Preserving Projection](??)</b><br>Jiang Rui, <b>Weijie Fu</b>, Shijie Hao, Li Wen, and Richang Hong. <i>Neurocomputing.</i> <b>Neurocomputing 2016</b>. [paper](https://www.sciencedirect.com/science/article/pii/S0925231215018536)
