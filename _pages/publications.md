@@ -26,7 +26,7 @@ author_profile: true
 
 ## 2018
 
-<b>[Scalable Active Learning by Approximated Error Reduction](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, Xindong Wu. <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>SIGKDD 2018</b>. [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219954) [slides](http://fuweijie.github.io/files/talk_sigkdd_2018.pdf) [code](https://github.com/fuweijie/AER)
+<b>[Scalable Active Learning by Approximated Error Reduction](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, Xindong Wu. <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>Oral, SIGKDD 2018</b>. [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219954) [slides](http://fuweijie.github.io/files/talk_sigkdd_2018.pdf) [code](https://github.com/fuweijie/AER)
 
 ## 2017 
 
