@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2017 
 
-<b>[FLAG: Faster Learning on Anchor Graph with Label Predictor Optimization](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, and Tingting Mu.<i>IEEE Transactions on Big Data.</i> <b>T-BD 2017</b>. [paper](https://ieeexplore.ieee.org/document/8054679)
+<b>[FLAG: Faster Learning on Anchor Graph with Label Predictor Optimization](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, and Tingting Mu.<i>IEEE Transactions on Big Data.</i> <b>T-BD 2017</b>. [paper](https://ieeexplore.ieee.org/document/8054679) [code](https://github.com/fuweijie/FLAG)
 
 <b>[Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Hengchang Liu, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>T-KDE 2017</b>. [paper](https://ieeexplore.ieee.org/document/7820177) [code](https://github.com/fuweijie/HAGR)
 
