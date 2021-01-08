@@ -19,9 +19,9 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
-  <meta name="google-site-verification" content="99w1unfptwuwP9OWsRdkzTazMyGlaKYziWh2Z_s5nX8" />
+{%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- include google-analytics.html -%}
+{%- endif -%}
+<meta name="google-site-verification" content="99w1unfptwuwP9OWsRdkzTazMyGlaKYziWh2Z_s5nX8" />
 
 <meta http-equiv="cleartype" content="on">
