@@ -84,7 +84,7 @@ author:
   avatar           : "weijiefu.png" #"profile.png"
   bio              : "Ph.D. Candidate, School of Computer Science and Information, Hefei University of Technology"
   location         : "Hefei, Anhui"
-  employer         : "https://www.hfut.edu.cn/"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dUFOpwUAAAAJ&hl=en"
   email            : "fwj.edu@gmail.com"
