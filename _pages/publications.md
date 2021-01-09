@@ -34,7 +34,7 @@ author_profile: true
 
 ## 2017 
 
-<b>[FLAG: Faster Learning on Anchor Graph with Label Predictor Optimization](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, and Tingting Mu. <i>IEEE Transactions on Big Data.</i> <b>T-BD 2017</b>. [paper](http://fuweijie.github.io/files/07820177.pdf) [code](https://github.com/fuweijie/FLAG)
+<b>[FLAG: Faster Learning on Anchor Graph with Label Predictor Optimization](??)</b><br><b>Weijie Fu</b>, Meng Wang, Shijie Hao, and Tingting Mu. <i>IEEE Transactions on Big Data.</i> <b>T-BD 2017</b>. [paper](http://fuweijie.github.io/files/08054679.pdf) [code](https://github.com/fuweijie/FLAG)
 
 <b>[Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy](??)</b><br>Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Hengchang Liu, and Xindong Wu. <i>IEEE Transactions on Knowledge and Data Engineering.</i> <b>T-KDE 2017</b>. [paper](http://fuweijie.github.io/files/07820177.pdf) [code](https://github.com/fuweijie/HAGR)
 
@@ -44,4 +44,4 @@ author_profile: true
 
 <b>[Active learning on Anchor Graph with an Improved Transductive Experimental Design](??)</b><br><b>Weijie Fu</b>, Shijie Hao, and Meng Wang. <i>Neurocomputing.</i> <b>Neurocomputing 2016</b>. [paper](https://www.sciencedirect.com/science/article/pii/S0925231215008929)
 
-<b>[Dimensionality Reduction on Anchor Graph with an Efficient Locality Preserving Projection](??)</b><br>Jiang Rui, <b>Weijie Fu</b>, Shijie Hao, Li Wen, and Richang Hong. <i>Neurocomputing.</i> <b>Neurocomputing 2016</b>. [paper](https://www.sciencedirect.com/science/article/pii/S0925231215018536)
+<b>[Dimensionality Reduction on Anchor Graph with an Efficient Locality Preserving Projection](??)</b><br>Jiang Rui, <b>Weijie Fu</b>, Shijie Hao, Li Wen, and Richang Hong. <i>Neurocomputing.</i> <b>Neurocomputing 2016</b>. [paper](https://www.sciencedirect.com/science/article/pii/S0925231215018536) [code](https://github.com/fuweijie/AGLPP)
