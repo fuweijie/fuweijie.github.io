@@ -11,9 +11,7 @@ Weijie Fu is a last-year Ph.D. student at School of Computer Science and Informa
 <b>He is looking for an (industrial) research job on machine learning and computer vision. </b>
 
 # Research ([Google Scholar](https://scholar.google.com/citations?user=dUFOpwUAAAAJ&hl=en))
-Efficient kernel methods   
-Explainable AI  
-Adversarial robustness  
+Efficient kernel methods, Explainable AI, Adversarial robustness  
 
 # Experience
 03/2019-07/2020 
