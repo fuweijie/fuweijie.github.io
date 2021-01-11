@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Weijie Fu is a last-year Ph.D. student at School of Computer Science and Information in Hefei University of Technology (HFUT). He is working at the Lab of Media Computing (LMC) under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home) (Fellow, IEEE). Before this, he received my B.S. degree in electronics and information engineering at Hefei University of Technology in 2015. <b>Currently, He is looking for an (industrial) research job on machine learning and computer vision. Feel free to drop him an email!</b>
+Weijie Fu is a last-year Ph.D. student at School of Computer Science and Information in Hefei University of Technology (HFUT). He is working at the Lab of Media Computing (LMC) under the supervision of Prof. [Meng Wang](https://sites.google.com/view/meng-wang/home) (Fellow, IEEE). Before this, he received my B.S. degree in electronics and information engineering at Hefei University of Technology in 2015.  
+<b>Currently, He is looking for an (industrial) research job on machine learning and computer vision. </b>
 
 # Research ([Google Scholar](https://scholar.google.com/citations?user=dUFOpwUAAAAJ&hl=en))
-Efficient kernel methods  
+Efficient kernel methods   
 Explainable AI  
 Adversarial robustness  
 
 # Experience
-
 03/2019-07/2020 
 <br>Visiting Scholar, Texas A&M University, United States 
 <br>Interpretable machine learning and adversarial defense
