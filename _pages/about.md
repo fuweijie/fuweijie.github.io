@@ -18,7 +18,7 @@ Adversarial robustness
 # Experience
 03/2019-07/2020 
 <br>Visiting Scholar, Texas A&M University, United States 
-<br>Interpretable machine learning and adversarial defense
+<br>Explainable deep learning and adversarial defense
 <br>Co-advisor: Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
 11/2016-03/2017 
