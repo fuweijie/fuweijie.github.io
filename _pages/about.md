@@ -15,12 +15,12 @@ Efficient kernel methods, Explainable AI, Adversarial robustness
 
 # Experience
 03/2019-07/2020 
-<br>Visiting Scholar, Texas A&M University, United States 
+<br>Visiting Scholar, Texas A&M University, US
 <br>Explainable deep learning and adversarial defense
 <br>Co-advisor: Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
 11/2016-03/2017 
-<br>Visiting Scholar, University of Manchester, United Kingdom
+<br>Visiting Scholar, University of Manchester, UK
 <br>Large-scale machine learning
 <br>Co-advisor: Prof. [Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html)
 
