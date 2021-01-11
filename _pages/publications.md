@@ -3,12 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 <!-- ## Preprints -->
-
-
 <!-- <i>System Machine Learning.</i> <b>SysML 2019</b>.-->
-
 ## Under Review
 <b>[A Simple Framework for Bias Mitigation via Feature Influence](??)</b><br>Mengnan Du, Ruixiang Tang, <b>Weijie Fu</b>, Xia Hu. <i>Under Review, 2020.</i>
 
