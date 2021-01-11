@@ -11,7 +11,9 @@ Weijie Fu is a last-year Ph.D. student at School of Computer Science and Informa
 <b>Actively looking for an industrial research job on machine learning and computer vision. </b>
 
 # Interests
-Efficient kernel methods, Explainable AI, Adversarial robustness  
+Explainable AI  
+Adversarial Robustness  
+Efficient Kernel Methods  
 
 # Selected Publications
 - <b>Weijie Fu</b>, Meng Wang, Mengnan Du, Ninghao Liu, Shijie Hao, Xia Hu, Differentiated Explanation of Deep Networks with Skewed Distributions, <b>IEEE TPAMI</b>, 2021.
