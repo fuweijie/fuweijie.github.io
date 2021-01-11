@@ -5,7 +5,7 @@ permalink: /services_awards/
 author_profile: true
 ---
 
-# Services
+## Services
 <b>Journals</b>  
 IEEE Transactions on Knowledge and Data Engineering  
 IEEE Transactions on Neural Networks and Learning Systems  
@@ -23,7 +23,7 @@ Pacific-Rim Conference on Multimedia, 2018
 International Conference on MultiMedia Modeling, 2017  
 ACM International Conference on Multimedia Retrieval, 2016  
 
-# Awards
+## Awards
 Chinese Scholarship Council Funding, 2019  
 National Scholarship for Graduate Student, 2018  
 SIGKDD Student Travel Award, 2018    
