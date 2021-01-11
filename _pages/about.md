@@ -31,7 +31,8 @@ Efficient Kernel Methods
 - <b>Weijie Fu</b>, Meng Wang, Shijie Hao, Xindong Wu, Scalable Active Learning by Approximated Error Reduction, <b>ACM SIGKDD, Oral</b>, 2018.
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Hengchang Liu, Xindong Wu, Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy, <b>IEEE TKDE</b>, 2017.
 - Meng Wang (Advisor), <b>Weijie Fu</b>, Shijie Hao, Dacheng Tao, Xindong Wu, Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization, <b>IEEE TKDE</b>, 2016.
-## Co-advisors & Colleagues
+
+# Co-advisors & Colleagues
 Prof. [Xindong Wu](http://xwu.bigke.org/) (Fellow, IEEE), Hefei University of Technology<br>
 Prof. [Shijie Hao](http://ci.hfut.edu.cn/2020/1209/c11505a245814/page.htm), Hefei University of Technology<br>
 Dr. [Mengnan Du](https://mengnandu.com/), Texas A&M University<br>
