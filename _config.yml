@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Weijie Fu"
 title_separator          : "-"
-name                     : &name "Weijie Fu"
+name                     : &name "Biography"
 description              : &description "personal description"
 url                      : https://fuweijie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact"
+  name             : "Weijie Fu"
   avatar           : "weijiefu.png" #"profile.png"
   bio              : "Ph.D. Candidate, School of Computer Science and Information, Hefei University of Technology"
   location         : "Hefei, Anhui"
