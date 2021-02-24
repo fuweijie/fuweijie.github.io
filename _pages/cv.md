@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
 [Click to view my curriculum vitae [PDF]](http://fuweijie.github.io/files/CV_WeijieFu.pdf)
 
