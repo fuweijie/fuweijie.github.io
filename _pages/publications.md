@@ -7,11 +7,11 @@ author_profile: true
 ## Under Review
 <b>[A Simple Framework for Bias Mitigation via Feature Influence](??)</b><br>Mengnan Du, Ruixiang Tang, <b>Weijie Fu</b>, Xia Hu. <i>Under Review, 2020.</i>
 
-<b>[ExAD: An Ensemble Approach for Explanation-based Adversarial Detection](??)</b><br>Raj Vardhan, Ninghao Liu, <b>Weijie Fu</b>, Guofei Gu. <i>Arxiv, 2021.</i> [paper](https://arxiv.org/abs/2103.11526)
-
 ## 2021
 
 <b>[Differentiated Explanation of Deep Networks with Skewed Distributions](??)</b><br><b>Weijie Fu</b>, Meng Wang, Mengnan Du, Ninghao Liu, Shijie Hao, Xia Hu. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, DOI:10.1109/TPAMI.2021.3049784</i>, <b>T-PAMI 2021</b>. [paper](http://fuweijie.github.io/files/DRE.pdf) [code](https://github.com/fuweijie/DRE)
+
+<b>[ExAD: An Ensemble Approach for Explanation-based Adversarial Detection](??)</b><br>Raj Vardhan, Ninghao Liu, <b>Weijie Fu</b>, Guofei Gu. <i>Arxiv, 2021.</i> [paper](https://arxiv.org/abs/2103.11526)
 
 ## 2020
 
