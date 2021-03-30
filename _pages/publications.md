@@ -7,7 +7,7 @@ author_profile: true
 ## Under Review
 <b>[A Simple Framework for Bias Mitigation via Feature Influence](??)</b><br>Mengnan Du, Ruixiang Tang, <b>Weijie Fu</b>, Xia Hu. <i>Under Review, 2020.</i>
 
-<b>[Explanation Based Detection of Adversarial Examples](??)</b><br>Raj Vardhan, Ninghao Liu, <b>Weijie Fu</b>, Guofei Gu. <i>Under Review, 2020.</i>
+<b>[ExAD: An Ensemble Approach for Explanation-based Adversarial Detection](??)</b><br>Raj Vardhan, Ninghao Liu, <b>Weijie Fu</b>, Guofei Gu. <i>Arxiv, 2021.</i> [paper](https://arxiv.org/abs/2103.11526)
 
 ## 2021
 
